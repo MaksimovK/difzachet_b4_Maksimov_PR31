@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NumbersAPI</string>
+    <string name="fact_number">Факты о числах</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить</string>
+    <string name="history">История</string>
+    <string name="input_number">Введите число</string>
+    <string name="print_info">Вывести факт</string>
+    <string name="numbers">NUMBERS</string>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="pass">Пароль</string>
+    <string name="back">Назад</string>
+    <string name="log">Логин</string>
+    <string name="reg">Зарегистрироваться</string>
+</resources>
